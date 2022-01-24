@@ -1,7 +1,5 @@
 # [dydaktyka-projekt](https://github.com/zajaczkowski/dydaktyka-projekt)
-Narzędzia wspomagające obliczenia projektowe realizowane w ramach zajęć ESN0822P oraz ESN0834P.
-
-Strony internetowe dedykowane w/w kursom: [ESN0822P](http://fluid.itcmp.pwr.wroc.pl/~zajaczkowski/?page=class_ESN0822P) oraz [ESN0834P](http://fluid.itcmp.pwr.wroc.pl/~zajaczkowski/?page=class_ESN0834P).
+Narzędzia wspomagające obliczenia projektowe realizowane w ramach zajęć.
 
 ---
 
